@@ -71,7 +71,7 @@ cat /etc/cowsay/falg.txt
 
 ![5](images/5.png)
 
-The flas was successfully revelead.
+The flag was successfully revelead.
 
 ## solve.py
 
